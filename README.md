@@ -1,5 +1,5 @@
 # Resulterr
-Fetches Results from MIS and saves it in PNG for a range of Rolls.
+Fetches Results from MIS and saves it in PNG for a range of Rolls. Useful for comparision with <i>Sharma Ji ka ladka and ladkis </i><br>
 Created using Python3 + Selenium + Pillow
 
 <h3>How to use ? </h3>
