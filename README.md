@@ -9,7 +9,7 @@ Created using Python3 + Selenium + Pillow
 
 1. Install Python3 - https://www.youtube.com/watch?v=V_ACbv4329E
 2. Install Selenium - https://www.youtube.com/watch?v=gVXcVcTRXd0
-3. Install Pillow - pip install pillow
+3. Install Pillow & Selenium SS - pip install pillow | pip install Selenium-Screenshot
 4. Install Chrome WebDriver - https://www.youtube.com/watch?v=dz59GsdvUF8
 5. [Optional] Python IDE - Vscode Recommended -https://www.youtube.com/watch?v=V0PdGCRcRXk 
 
